@@ -1,2 +1,3 @@
+Wordpress Installation Instructions
 Tricia Pardave
-Peter
+Peter Eskander
