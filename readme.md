@@ -23,6 +23,11 @@ once you do all that go to the wp-config file and run it.
 you are then able to go on your internet browser and look up localhost/8080 and you'll find your website
 log in and choose your language and you're going to be good to go.
 
+Usual issues that happen are: typos! Make sure everything is typed out correctly!
+Make sure you renamed the file from wp-config-sample.php to wp-config.php.
+if the localhost port is unavailable try to connect to a different port.
+Make sure you make a unique username and password for in the wp-config file that you created in the database!
+
 Git collaboration:
 Git is awesome way for coders to collaborate because it makes it simpler.
 First the project is started in a repository.
