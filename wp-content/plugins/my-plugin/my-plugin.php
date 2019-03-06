@@ -1,10 +1,13 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Tricia Pardave
- * Date: 3/5/2019
- * Time: 5:20 PM
- */
+ * Plugin Name: My Plugin
+ * Plugin URI: https://www.yourwebsiteurl.com/
+ * Description: This is the very first plugin I ever created.
+ * Version: 1.0
+ * Author: Your Name Here
+ * Author URI: http://yourwebsiteurl.com/
+ **/
+
 
 function dh_modify_read_more_link() {
 
