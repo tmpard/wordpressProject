@@ -1,0 +1,1 @@
+INSERT INTO wordpress.wp_term_taxonomy (term_taxonomy_id, term_id, taxonomy, description, parent, count) VALUES (1, 1, 'category', '', 0, 1);

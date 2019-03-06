@@ -1,0 +1,1 @@
+INSERT INTO wordpress.wp_terms (term_id, name, slug, term_group) VALUES (1, 'Uncategorized', 'uncategorized', 0);

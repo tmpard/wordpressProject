@@ -1,0 +1,1 @@
+INSERT INTO wordpress.wp_users (ID, user_login, user_pass, user_nicename, user_email, user_url, user_registered, user_activation_key, user_status, display_name) VALUES (1, 'localhost', '$P$BZ5eqBQs/egtB5fL411z45SRlK8v15/', 'localhost', 'tmp34@njit.edu', '', '2019-02-06 19:19:41', '', 0, 'localhost');
