@@ -27,3 +27,11 @@ add_action('wp_enqueue_scripts', 'loadjs');
 
 add_theme_support('menus');
 
+register_nav_menus(
+    array(
+
+        'top-menu' => __('Top Menu', 'theme'),
+        'footer-menu' => __('Footer Menu', 'theme'),
+    )
+);
+
