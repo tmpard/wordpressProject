@@ -1,22 +1,20 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Bootstrap WordPress Theme</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-    <head>
-        <?php wp_head();?>
-    </head>
+<div class = "navbar navbar-inverse navbar-static-top">
+    <div class = "container">
 
-<body <?php body_class();?>>
+        <a href = "#" class = "navbar-brand">Bootstrap WordPress Theme</a>
 
-<header class="sticky-top">
-    <div class="container">
-    <?php wp_nav_menu(
+        <button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
+            <span class = "icon-bar"></span>
+            <span class = "icon-bar"></span>
+            <span class = "icon-bar"></span>
+        </button>
 
-            array(
-
-                    'theme_location' => 'top-menu',
-                    'menu_class' => 'navigation'
-            )
-);?>
-    </div>
-
-</header>
+        <?php echo get_stylesheet_uri(); ?>
