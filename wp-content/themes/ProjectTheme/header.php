@@ -16,5 +16,3 @@
             <span class = "icon-bar"></span>
             <span class = "icon-bar"></span>
         </button>
-
-        <?php echo get_stylesheet_uri(); ?>
