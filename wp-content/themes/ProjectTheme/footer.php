@@ -1,3 +1,4 @@
+<?php wp_footer(); ?>
 <div class = "collapse navbar-collapse navHeaderCollapse">
 
     <ul class = "nav navbar-nav navbar-right">
@@ -124,7 +125,7 @@
 </div>
 
 <script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
+<script src="js/bootstrap.js"></script>
 
 </body>
 </html>
